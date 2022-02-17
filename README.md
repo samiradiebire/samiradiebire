@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, welcome to my page!🤗 
+
+I am a PhD Candidate at the Department of Government at the University of Essex. My research interests are in the field of Sub Saharan African Political Development, Decolonisation and Conflict Resolution.
+
+🌱 I’m currently learning about statistics, research design, causal inference and R programming.
+
 
 <!--
 **samiradiebire/samiradiebire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
